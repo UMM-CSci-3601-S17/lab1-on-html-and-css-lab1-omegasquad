@@ -30,6 +30,20 @@ is up-to-date with the copy that GitHub has. This is **Very Important** as other
   - Check that the branch is correct. At this time, it should just be "master".
 - We'll ignore the other pieces of this for now... At this time, hit "Pull".
 
-> Protip: Get into a habit of pulling changes before adding your commits to GitHub (before "Pushing).
-
 > Protip: Make sure to commit local changes before pulling to ensure Git is happy.
+
+> Protip: Get into a habit of **ALWAYS** pulling changes before Pushing (see below).
+
+### Pushing your commits to GitHub
+When you are done working or you want others to be able to see your changes, you will want to push your commits to GitHub.
+This adds them to the ever-growing chain of commits for the repository on GitHub.
+
+> Protip: Make sure you are certain of the commits you want to push to GitHub. Removing parts of a repository's history is a pain, and should be avoided at all costs.
+
+- Once you hav some commits ready to push, click "VCS" at the top of WebStorm.
+- Open the "Git" sub-menu.
+- Click the "Push" button.
+
+> Protip: The shortcut for pushing is Ctrl + Shift + K
+
+-
