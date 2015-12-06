@@ -46,4 +46,9 @@ This adds them to the ever-growing chain of commits for the repository on GitHub
 
 > Protip: The shortcut for pushing is Ctrl + Shift + K
 
--
+- Review the list of commits that will be pushed.
+  - You can view changes in a commit using the "Show Diff" (ctrl + D) icon in the upper-right corner.
+- Once you are certain of your changes/commits, hit the "Push" button.
+
+### Merging
+If for some reason you come across this, see Professor KK or a lab assistant.
