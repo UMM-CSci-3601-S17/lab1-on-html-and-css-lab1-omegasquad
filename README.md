@@ -20,3 +20,8 @@ Committing effectively means you are creating a local save of your current progr
 1. To commit changes from within a WebStorm project, go to "VCS" (Version Control Systems) and select "Commit Changes."
 > Protip: The shortcut for committing is Ctrl + K
 2. Please **Carefully review the list of changes** that WebStorm will present you with.
+> Protip: Select a changed file and use the "details" dropdown to view a detailed description of what was changed in that file
+3. Write a **MEANingful** commit message when prompted.
+4. Click "commit" (Not "commit and push", or "create patch" !)
+5. When adding, deleting, or renaming files in your project, you will have to do a couple special things. If you are unsure what to do here, please talk to Professor KK, or one of the lab assistants.
+
