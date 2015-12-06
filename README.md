@@ -3,7 +3,7 @@
 
 ## Instructions:
 ### Setting up the repository on GitHub:
-1. Have one member of your group **fork** this repository on github
+1. Have one member of your group **fork** this repository on GitHub
 2. Have that group member add all other members of your group as **collaborators**
 
 ### Checking out your project in WebStorm:
@@ -12,10 +12,10 @@
 3. Select your repository from the drop down menu ("Git repository URL"). If your repo is not listed here, you can copy-paste this address from GitHub. 
 
 ### Committing changes to your project
-As your are working on your project, you will need to preiodically commit changes that you have made.
+As your are working on your project, you will need to periodically commit changes that you have made.
 Committing effectively means you are creating a local save of your current progress/project. Each commit records changes since the last commit, and the chain of commits represents the history of changes to your project!
 
-> Protip: Frequent commits make everyone happy. Good commit messages keep your coworkers from silently cursing your name.
+> Protip: Frequent commits make everyone happy. Good commit messages keep your coworkers from silently cursing your name
 
 - To commit changes from within a WebStorm project, go to "VCS" (Version Control Systems) and select "Commit Changes."
 
@@ -29,3 +29,20 @@ Committing effectively means you are creating a local save of your current progr
 -  Click "commit" (Not "commit and push", or "create patch" !)
 - When adding, deleting, or renaming files in your project, you will have to do a couple special things. If you are unsure what to do here, please talk to Professor KK, or one of the lab assistants.
 
+### Pulling in changes from GitHub
+Before doing work on your project, or sending your committed changes up to GitHub, you will need to make sure your local copy of the project
+is up-to-date with the copy that GitHub has. This is **Very Important** as others on your team may have sent changes of their own to GitHub since you started working.
+
+> Protip: You should do this whenever starting work on the project or before adding your commits to GitHub
+
+- To pull repository changes from GitHub to your local project, click "VCS" at the top of WebStorm.
+- Open the "Git" sub-menu.
+- Click the "Pull" button.
+- Review the "branch" and "remote" fields.
+  - Check that the remote is the URL of your repository on GitHub.
+  - Check that the branch is correct. At this time, it should just be "master".
+- We'll ignore the other pieces of this for now... At this time, hit "Pull".
+
+> Protip: Get into a habit of pulling changes before adding your commits to GitHub (before "Pushing).
+
+> Protip: Make sure to commit local changes before pulling to ensure Git is happy.
