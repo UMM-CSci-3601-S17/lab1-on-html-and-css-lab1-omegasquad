@@ -1,5 +1,4 @@
 # CSCI 3601 Lab #1 - HTML and CSS Lab
-### Spring 2016
 
 ## Instructions:
 ### Setting up the repository on GitHub:
