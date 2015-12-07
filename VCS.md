@@ -1,12 +1,12 @@
 # Version Control Overview
 
-[Committing Changes](#Committing-changes-to-your-project)
+[Committing Changes](.#Committing-changes-to-your-project)
 
-[Pulling from GitHub](#Pulling-in-changes-from-GitHub)
+[Pulling from GitHub](.#Pulling-in-changes-from-GitHub)
 
-[Pushing to GitHub](#Pushing-your-commits-to-GitHub)
+[Pushing to GitHub](.#Pushing-your-commits-to-GitHub)
 
-[Merging](#Merging)
+[Merging](.#Merging)
 
 ###Committing changes to your project
 As your are working on your project, you will need to periodically commit changes that you have made.
