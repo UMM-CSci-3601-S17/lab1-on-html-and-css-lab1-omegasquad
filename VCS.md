@@ -1,8 +1,11 @@
 # Version Control Overview
 
 [Committing Changes](#Committing changes to your project)
+
 [Pulling from GitHub](#Pulling in changes from GitHub)
+
 [Pushing to GitHub](#Pushing your commits to GitHub)
+
 [Merging](#Merging)
 
 ###Committing changes to your project
