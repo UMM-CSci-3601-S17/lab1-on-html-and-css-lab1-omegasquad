@@ -5,7 +5,7 @@
 [Pushing to GitHub](#Pushing your commits to GitHub)
 [Merging](#Merging)
 
-### Committing changes to your project
+###Committing changes to your project
 As your are working on your project, you will need to periodically commit changes that you have made.
 Committing effectively means you are creating a local save of your current progress/project. Each commit records changes since the last commit, and the chain of commits represents the history of changes to your project!
 
@@ -23,7 +23,7 @@ Committing effectively means you are creating a local save of your current progr
 -  Click "commit" (Not "commit and push", or "create patch" !)
 - When adding, deleting, or renaming files in your project, you will have to do a couple special things. If you are unsure what to do here, please talk to Professor KK, or one of the lab assistants.
 
-### Pulling in changes from GitHub
+###Pulling in changes from GitHub
 Before doing work on your project, or sending your committed changes up to GitHub, you will need to make sure your local copy of the project
 is up-to-date with the copy that GitHub has. This is **Very Important** as others on your team may have sent changes of their own to GitHub since you started working.
 
@@ -41,7 +41,7 @@ is up-to-date with the copy that GitHub has. This is **Very Important** as other
 
 > Protip: Get into a habit of **ALWAYS** pulling changes before Pushing (see below).
 
-### Pushing your commits to GitHub
+###Pushing your commits to GitHub
 When you are done working or you want others to be able to see your changes, you will want to push your commits to GitHub.
 This adds them to the ever-growing chain of commits for the repository on GitHub.
 
@@ -57,5 +57,5 @@ This adds them to the ever-growing chain of commits for the repository on GitHub
   - You can view changes in a commit using the "Show Diff" (ctrl + D) icon in the upper-right corner.
 - Once you are certain of your changes/commits, hit the "Push" button.
 
-### Merging
+###Merging
 If for some reason you come across this, see Professor KK or a lab assistant.
