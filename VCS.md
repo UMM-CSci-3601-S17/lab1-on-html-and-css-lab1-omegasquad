@@ -1,3 +1,10 @@
+# Version Control Overview
+
+[Committing Changes](#Committing changes to your project)
+[Pulling from GitHub](#Pulling in changes from GitHub)
+[Pushing to GitHub](#Pushing your commits to GitHub)
+[Merging](#Merging)
+
 ### Committing changes to your project
 As your are working on your project, you will need to periodically commit changes that you have made.
 Committing effectively means you are creating a local save of your current progress/project. Each commit records changes since the last commit, and the chain of commits represents the history of changes to your project!
