@@ -1,6 +1,8 @@
 # CSCI 3601 Lab #1 - HTML and CSS Lab
 In this lab you will learn to create a simple website using HTML and CSS, following best practices
-and using validated code, all while maintaining good version control using WebStorm's git/GitHub integreation.
+and using validated code, all while maintaining good version control using WebStorm's git/GitHub integreation.  
+
+Your specific tasks for this lab can be found in the LABTASKS.md file in this repository.
 
 ## Setup Instructions:
 ### Setting up the repository on GitHub:
