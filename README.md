@@ -2,7 +2,7 @@
 In this lab you will learn to create a simple website using HTML and CSS, following best practices
 and using validated code, all while maintaining good version control using WebStorm's git/GitHub integreation.  
 
-Your specific tasks for this lab can be found in the LABTASKS.md file in this repository.
+Your specific tasks for this lab can be found in the [LABTASKS.md](LABTASKS.md) file in this repository.
 
 ## Setup Instructions:
 ### Setting up the repository on GitHub:
@@ -15,5 +15,5 @@ Your specific tasks for this lab can be found in the LABTASKS.md file in this re
 3. Select your repository from the drop down menu ("Git repository URL"). If your repo is not listed here, you can copy-paste this address from GitHub. 
 
 ### VCS Guide
-Please review the version control guide: VCS.md (in this repository)
+Please review the version control guide: [VCS.md](VCS.md) (in this repository)
 
