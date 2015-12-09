@@ -18,14 +18,14 @@ Your specific tasks for this lab can be found in the [LABTASKS.md](LABTASKS.md) 
 Please review the version control guide: [VCS.md](VCS.md) (in this repository)
 
 ## Resources:
-###Validating your code:
+####Validating your code:
 - [HTML Validation](http://validator.w3.org/)
 - [CSS Validation](http://jigsaw.w3.org/css-validator/)
 
-###Fun WebStorm Information:
+####Fun WebStorm Information:
 - [WebStorm Documentation for Markup Language and Style Sheets](http://www.jetbrains.com/webstorm/help/markup-languages-and-style-sheets.html) <-- Cool stuff here
 
-###Generally helpful things:
+####Generally helpful things:
 - [HTML Tutorial at W3 Schools](http://www.w3schools.com/html/default.asp)
 - [HTML5 Specific Tutorial at W3 Schools](http://www.w3schools.com/html/html5_intro.asp)
 - [CSS tutorial at W3 Schools](http://www.w3schools.com/css/default.asp), particularly:
