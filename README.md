@@ -18,14 +18,14 @@ Your specific tasks for this lab can be found in the [LABTASKS.md](LABTASKS.md) 
 Please review the version control guide: [VCS.md](VCS.md) (in this repository)
 
 ## Resources:
-[HTML Tutorial at W3 Schools](http://www.w3schools.com/html/default.asp)
-[HTML5 Specific Tutorial at W3 Schools](http://www.w3schools.com/html/html5_intro.asp)
-[CSS tutorial at W3 Schools](http://www.w3schools.com/css/default.asp), particularly:
-- [A guide to font families](http://www.w3schools.com/cssref/css_websafe_fonts.asp)
-- [CSS Box Model](http://www.w3schools.com/css/css_boxmodel.asp)
-- [CSS Float](http://www.w3schools.com/css/css_float.asp): How to position elements next to each other
-- [CSS Display and Visability](http://www.w3schools.com/css/css_display_visibility.asp)
-- [CSS3 Features](http://www.w3schools.com/css/css3_intro.asp) - Relativly recent stuff, cool features not yet supported by all browsers.
-[WebStorm Documentation for Markup Language and Style Sheets](http://www.jetbrains.com/webstorm/help/markup-languages-and-style-sheets.html) <-- Cool stuff here
+-[HTML Tutorial at W3 Schools](http://www.w3schools.com/html/default.asp)
+-[HTML5 Specific Tutorial at W3 Schools](http://www.w3schools.com/html/html5_intro.asp)
+-[CSS tutorial at W3 Schools](http://www.w3schools.com/css/default.asp), particularly:
+  - [A guide to font families](http://www.w3schools.com/cssref/css_websafe_fonts.asp)
+  - [CSS Box Model](http://www.w3schools.com/css/css_boxmodel.asp)
+  - [CSS Float](http://www.w3schools.com/css/css_float.asp): How to position elements next to each other
+  - [CSS Display and Visability](http://www.w3schools.com/css/css_display_visibility.asp)
+  - [CSS3 Features](http://www.w3schools.com/css/css3_intro.asp) - Relativly recent stuff, cool features not yet supported by all browsers.
+-[WebStorm Documentation for Markup Language and Style Sheets](http://www.jetbrains.com/webstorm/help/markup-languages-and-style-sheets.html) <-- Cool stuff here
 
 
