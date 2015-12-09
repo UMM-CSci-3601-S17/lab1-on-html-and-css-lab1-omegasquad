@@ -1,6 +1,8 @@
 # CSCI 3601 Lab #1 - HTML and CSS Lab
+In this lab you will learn to create a simple website using HTML and CSS, following best practices
+and using validated code, all while maintaining good version control using WebStorm's git/GitHub integreation.
 
-## Instructions:
+## Setup Instructions:
 ### Setting up the repository on GitHub:
 1. Have one member of your group **fork** this repository on GitHub
 2. Have that group member add all other members of your group as **collaborators**
@@ -13,7 +15,7 @@
 ### VCS Guide
 Please review the version control guide: VCS.md (in this repository)
 
-### Lab Tasks
+## Lab Tasks
 Your task for this lab is to develop a static web page for a small business, such as a health food store, using HTML and CSS. Do not use any javascript. You may include forms if you'd like, but no form handling at this point.
 
 All of the formatting (including the positioning of elements in the page) must be done using CSS. Do not include width, height, fonts, colors, etc into your HTML. Do not use absolute settings for sizes, make them relative to your page size and your default font. You are required to use some HTML5 and may use CSS3 features. If a feature is not supported in some browsers, please clearly indicate which browsers support it and which ones don't. 
