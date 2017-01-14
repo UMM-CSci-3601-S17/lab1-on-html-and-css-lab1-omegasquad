@@ -5,9 +5,6 @@ and using validated code, all while maintaining good version control using WebSt
 Your specific tasks for this lab can be found in the [LABTASKS.md](LABTASKS.md) file in this repository.
 
 ## Setup Instructions:
-#### Setting up the repository on GitHub:
-1. Have one member of your group **fork** this repository on GitHub
-2. Have that group member add all other members of your group as **collaborators**
 
 #### Checking out your project in WebStorm:
 1. In the WebStorm launch window, choose "Check out from version control", choose GitHub.
