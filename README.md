@@ -11,8 +11,6 @@ Your specific tasks for this lab can be found in the [LABTASKS.md](LABTASKS.md) 
 2. You will be asked to enter your GitHub login information, as well as a master password (used to store login information locally).
 3. Select your repository from the drop down menu ("Git repository URL"). If your repo is not listed here, you can copy-paste this address from GitHub. 
 
-#### VCS Guide
-Please review the version control guide: [VCS.md](VCS.md) (in this repository)
 
 ## Resources:
 ####Validating your code:
