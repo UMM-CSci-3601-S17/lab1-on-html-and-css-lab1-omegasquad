@@ -13,8 +13,9 @@ To views your website, you should be able to simply open the ``index.html`` file
 
 #### Version Control Reminder:
 Remember to practice good version control! New features should be developed in
-feature branches, commit messages should be in the present tense and provide
-meaningful information, and you should use pull requests on github to merge
+feature branches, [commit messages should be in the present tense and provide
+meaningful information](http://chris.beams.io/posts/git-commit/), 
+and you should use pull requests on github to merge
 changes from feature branches into your master branch.
 
 ## Resources:
