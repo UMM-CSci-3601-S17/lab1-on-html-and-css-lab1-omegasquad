@@ -8,8 +8,8 @@ All of the formatting (including the positioning of elements in the page) must b
 Please read carefully the list of technical requirements below and follow it precisely.
 
   - Your page must use an **external CSS file**. You may, if needed, use inline CSS for more specific settings, but make sure to explain (in comments) why it's needed.
-  - Your **HTML** and **CSS must validate**, except perhaps warnings about features not supported in all browsers.
-  - Your page must look reasonably well and be easy enough to navigate: there should be no fonts that are hard to read, links that are hard to see, or unpleasant color combinations. While I will not be evaluating your design per se, I may take points off for features that make a problematic user experience.
+  - Your **HTML** and **CSS must validate** ([HTML validator](https://validator.w3.org/), and [CSS validator](https://jigsaw.w3.org/css-validator/)), except perhaps warnings about features not supported in all browsers.
+  - Your page must look reasonable and be relatively easy to navigate: there should be no fonts that are hard to read, links that are hard to see, or unpleasant color combinations. While we will not be evaluating your design _per se_, we may take points off for features that lead to a problematic user experience.
   
 > Protip: Fonts specified in CSS can be different in different browsers! Just because ``font-family: "Comic Sans"`` looks sweet in Internet Explorer 5 (which you better not be using) doesn't mean it will in Chrome or Firefox.
 
@@ -21,7 +21,7 @@ Please read carefully the list of technical requirements below and follow it pre
     - A **navigation bar.** It must be a fixed percentage of the page and resize with the window. It may be horizontal or vertical.
     - A **footer** with the company's address, contact information, etc.
     - At least one more **div for the main part of the page**. Typically each div is marked with its own id, for CSS formatting. 
-  - At least **three images**. Since we don't have a real business to develop the page for, just use any images as a mock-up. Make sure you are following the copyright. The quality of the images is not a part of the grade.
+  - At least **three images**. Since we don't have a real business to develop the page for, just use any images as a mock-up. Make sure you abide by relevant copyrights; it's probably simplest if you search for images that have appropriate Creative Commons licenses. The quality of the images is not a part of the grade.
 
 > Protip: If you're having trouble finding decent images for your site, remember that you can take pictures with your phone and use them. As long as no people or company logos are featured prominently, images should be safe to use.
 
@@ -29,8 +29,7 @@ Please read carefully the list of technical requirements below and follow it pre
   - You must use at least **10 CSS rules** in your CSS file (a rule is a selector followed by settings for this selector).
   - In your CSS you must use each of the following: **grouping, nesting, a class, and an id**.
   
-> Protip: I'd recommend playing with grouping and nesting after you've already written a bit of CSS, it'll be easier to understand why it's so cool. A good explanation of grouping and nesting can be found [here.](http://lmgtfy.com/?q=grouping+and+nesting+css&l=1) Also, you can see some general info on CSS selectors [here.](http://www.w3schools.com/cssref/css_selectors.asp)
+> Protip: I'd recommend playing with grouping and nesting after you've already written a bit of CSS, it'll be easier to understand why it's so cool. A good explanation of grouping and nesting can be found [here](http://lmgtfy.com/?q=grouping+and+nesting+css&l=1). Also, you can see some general info on CSS selectors [here](http://www.w3schools.com/cssref/css_selectors.asp).
 
   - You must use at least two and **no more than five HTML5 features**.
   - You may use **no more than three CSS3 features.** 
-
