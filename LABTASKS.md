@@ -31,5 +31,7 @@ Please read carefully the list of technical requirements below and follow it pre
   
 > Protip: I'd recommend playing with grouping and nesting after you've already written a bit of CSS, it'll be easier to understand why it's so cool. A good explanation of grouping and nesting can be found [here](http://lmgtfy.com/?q=grouping+and+nesting+css&l=1). Also, you can see some general info on CSS selectors [here](http://www.w3schools.com/cssref/css_selectors.asp).
 
-  - You must use at least two and **no more than five HTML5 features**.
-  - You may use **no more than three CSS3 features.** 
+  - You must use at least one HTML5 specific feature
+  - You must use at least one CSS3 specific feature
+  - For each HTML5 / CSS3 feature you use, you must include an inline comment and/or a note in your README
+  about why you used that feature.
