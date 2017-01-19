@@ -8,7 +8,7 @@ Your specific tasks for this lab can be found in the [LABTASKS.md](LABTASKS.md) 
 Clone your repository to your local working environment.
 
 ## "Running" your project
-To views your website, you should be able to simply open the ``index.html`` file in your browser of choice.
+To view your website, you should be able to simply open the ``index.html`` file in your browser of choice.
 (In most cases, 'double clicking' the file should do this)
 
 #### Version Control Reminder:
