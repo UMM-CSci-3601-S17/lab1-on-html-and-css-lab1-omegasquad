@@ -17,7 +17,7 @@ Please read carefully the list of technical requirements below and follow it pre
 
 > Protip: Making web pages that can resize across many different screen sizes and devices is referred to as _responsive web design_. This is a big thing right now. By using fancy styling, among other tools, to adjust how a web page looks, developers can make a single page rather than multiple for each type of device. To see how your page would look on some phones or tablets: open your page in Chrome > right-click the page > click "inspect element" > click the little phone symbol in the top-left corner. This will show roughly what your site would look like on the chosen device. 
 
-  - Your page must have the **following elements implemented as div elements** (do not use tables for formatting; use CSS positioning, see the links above):
+  - Your page must have the **following elements implemented as div elements** (do not use tables for formatting; use CSS positioning, see [the links in the README](./README.md)):
     - A **navigation bar.** It must be a fixed percentage of the page and resize with the window. It may be horizontal or vertical.
     - A **footer** with the company's address, contact information, etc.
     - At least one more **div for the main part of the page**. Typically each div is marked with its own id, for CSS formatting. 
