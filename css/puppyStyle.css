@@ -18,6 +18,12 @@ img {
     text-align: center;
 }
 
+/*Keeps the very top content (Page name) of the page a set distance away from the top
+  so that the navigation bar will not hide it.*/
+body{
+    padding-top: 65px;
+}
+
 /*border*/
 div {
     width: 320px;
@@ -42,12 +48,10 @@ ul {
     width: 100%;
 }
 
+/*nav button size*/
 li {
-    /*nav button size*/
     float: left;
     width: calc(100% / 4);
-
-
 }
 
 li a {
