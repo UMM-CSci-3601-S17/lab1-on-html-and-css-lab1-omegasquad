@@ -18,7 +18,7 @@ img {
     text-align: center;
 }
 
-/*boarder*/
+/*border*/
 div {
     width: 320px;
     padding: 10px;
@@ -40,21 +40,24 @@ ul {
     position: fixed;
     top: 0;
     width: 100%;
-
 }
 
-
-
 li {
+    /*nav button size*/
     float: left;
+    width: calc(100% / 4);
+
+
 }
 
 li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 20px 16px;
     text-decoration: none;
+    padding: 20px 16px;
+    border-right: 1px solid #bbb;
+
 }
 
 /*
