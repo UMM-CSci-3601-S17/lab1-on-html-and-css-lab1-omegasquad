@@ -9,7 +9,7 @@ p {
 
 img {
     display: block;
-    width: 50%;
+    width: 25%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -22,6 +22,7 @@ img {
   so that the navigation bar will not hide it.*/
 body{
     padding-top: 65px;
+    background-color: #72adff;
 }
 
 /*border*/
@@ -29,13 +30,16 @@ div {
     width: 320px;
     padding: 10px;
     border: 5px solid gray;
-    margin: 0;
+    margin: auto;
+    /*margin: auto will not work on Internet Explorer 8*/
 }
+
+
 
 /*navigation bar*/
 ul {
     list-style-type: none;
-    margin: 0;
+    margin: -8px;
     padding: 0;
     overflow: hidden;
     background-color: #333;
@@ -59,7 +63,7 @@ li a {
     color: white;
     text-align: center;
     text-decoration: none;
-    padding: 20px 16px;
+    padding: 15px 16px;
     border-right: 1px solid #bbb;
 
 }
