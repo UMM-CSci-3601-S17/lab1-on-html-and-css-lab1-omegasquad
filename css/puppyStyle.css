@@ -1,3 +1,15 @@
+.contentPage {width: calc(500px + 30%);
+    margin:0 auto 0 auto;
+    padding:5px;
+    border:20px solid rosybrown;
+    background:antiquewhite;
+    margin-top: -8%;
+}
+
+figure {
+    border: 20px solid lightgray;
+}
+
 h1 {
     color: white;
     font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
@@ -8,7 +20,7 @@ h2 {
     font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
 }
 h3 {
-    color: green;
+    color: darkolivegreen;
     font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
 }
 
@@ -18,7 +30,7 @@ p {
 
 img {
     display: block;
-    width: 40%;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -31,15 +43,17 @@ img {
   so that the navigation bar will not hide it.*/
 body{
     padding-top: 65px;
-    background-color: lightsteelblue;
+    background-image: url(https://hdwallpapers8k.com/wp-content/uploads/blurred-colors-abstract-hd-wallpaper-1920x1080-30590-1920x1080.jpg);
+    background-size: 100% 100%;
 }
 
 /*border*/
 div {
-    width: 320px;
+    width: 60%;
     padding: 10px;
-    border: 5px solid gray;
+    border: 5px solid floralwhite;
     margin: auto;
+    background-image: url(https://hdwallpapers8k.com/wp-content/uploads/blurred-colors-abstract-hd-wallpaper-1920x1080-30590-1920x1080.jpg);
     /*margin: auto will not work on Internet Explorer 8*/
 }
 
@@ -65,7 +79,7 @@ ul {
 /*nav button size*/
 li {
     float: left;
-    width: calc(100% / 4);
+    width: calc(100% / 5);
 }
 
 li a {
@@ -83,7 +97,7 @@ li a {
     background-size: 100% 100%;
     width: 25%;
     padding: 5%;
-    border: 5px solid lightsteelblue;
+    border: 0;
     margin: auto;
 }
 
@@ -91,9 +105,8 @@ li a {
     background-image: url(http://puppyshopboys.com/wp-content/themes/puppyshopboys/images/puppies.png);
     background-size: 100% 100%;
     width: 40%;
-    heigth: 100%;
     padding: 10%;
-    border: 5px solid lightsteelblue;
+    border: 0;
     margin: auto;
 }
 
@@ -102,8 +115,60 @@ li a {
     width: 100%;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: auto;
 }
 
+figcaption {
+    font-size: larger;
+    font-family: Impact;
+}
+
+.four {
+    list-style-type: none;
+    display: flex;
+    width: 300px;
+    padding: 0;
+    margin-left: calc(50% - 120px);
+    overflow: hidden;
+    background-color: transparent;
+    position: static;
+}
+
+.five {
+    float: none;
+    width: 80px;
+}
+.six {
+    display: inline;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 15px 16px;
+    border-right: none;
+}
+.seven {
+    display: block;
+    width: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imgMod1 {
+    display: block;
+    width: 15%;
+    height: 8%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.listT3 {
+    list-style-type: none;
+    display: flex;
+    width: 100%;
+    padding: 0;
+    overflow: hidden;
+    background-color: transparent;
+    position: static;
+}
 /*
 li a:hover {
     background-color: #111;
