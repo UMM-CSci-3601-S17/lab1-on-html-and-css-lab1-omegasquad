@@ -1,5 +1,14 @@
+h1 {
+    color: white;
+    font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
+}
+
 h2 {
-    color: cyan;
+    color: saddlebrown;
+    font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
+}
+h3 {
+    color: green;
     font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
 }
 
@@ -9,7 +18,7 @@ p {
 
 img {
     display: block;
-    width: 25%;
+    width: 40%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -22,7 +31,7 @@ img {
   so that the navigation bar will not hide it.*/
 body{
     padding-top: 65px;
-    background-color: #72adff;
+    background-color: lightsteelblue;
 }
 
 /*border*/
@@ -36,13 +45,14 @@ div {
 
 
 
+
 /*navigation bar*/
 ul {
     list-style-type: none;
     margin: -8px;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: saddlebrown;
 
     /*keeps navigation bar fixed to the top of page when scrolling.
       top is the distance from top of page in percentage
@@ -66,6 +76,32 @@ li a {
     padding: 15px 16px;
     border-right: 1px solid #bbb;
 
+}
+
+.one {
+    background-image: url(https://img.clipartfest.com/959c64b43cf3bbe494bfae409b6019a1_free-dog-clip-art-image-cute-free-clipart-dog-bone_500-195.png);
+    background-size: 100% 100%;
+    width: 25%;
+    padding: 5%;
+    border: 5px solid lightsteelblue;
+    margin: auto;
+}
+
+.two {
+    background-image: url(http://puppyshopboys.com/wp-content/themes/puppyshopboys/images/puppies.png);
+    background-size: 100% 100%;
+    width: 40%;
+    heigth: 100%;
+    padding: 10%;
+    border: 5px solid lightsteelblue;
+    margin: auto;
+}
+
+.three {
+    display: block;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /*
