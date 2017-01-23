@@ -1,0 +1,178 @@
+.contentPage {width: calc(500px + 30%);
+    margin:0 auto 0 auto;
+    padding:5px;
+    border:20px solid rosybrown;
+    background:antiquewhite;
+    margin-top: -8%;
+}
+
+figure {
+    border: 20px solid lightgray;
+}
+
+h1 {
+    color: white;
+    font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
+}
+
+h2 {
+    color: saddlebrown;
+    font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
+}
+h3 {
+    color: darkolivegreen;
+    font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
+}
+
+p {
+    font-family: monospace;
+}
+
+img {
+    display: block;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centerText {
+    text-align: center;
+}
+
+/*Keeps the very top content (Page name) of the page a set distance away from the top
+  so that the navigation bar will not hide it.*/
+body{
+    padding-top: 65px;
+    background-image: url(https://hdwallpapers8k.com/wp-content/uploads/blurred-colors-abstract-hd-wallpaper-1920x1080-30590-1920x1080.jpg);
+    background-size: 100% 100%;
+}
+
+/*border*/
+div {
+    width: 60%;
+    padding: 10px;
+    border: 5px solid floralwhite;
+    margin: auto;
+    background-image: url(https://hdwallpapers8k.com/wp-content/uploads/blurred-colors-abstract-hd-wallpaper-1920x1080-30590-1920x1080.jpg);
+    /*margin: auto will not work on Internet Explorer 8*/
+}
+
+
+
+
+/*navigation bar*/
+ul {
+    list-style-type: none;
+    margin: -8px;
+    padding: 0;
+    overflow: hidden;
+    background-color: saddlebrown;
+
+    /*keeps navigation bar fixed to the top of page when scrolling.
+      top is the distance from top of page in percentage
+      width is the width of the navigation bar*/
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+/*nav button size*/
+li {
+    float: left;
+    width: calc(100% / 5);
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 15px 16px;
+    border-right: 1px solid #bbb;
+
+}
+
+.one {
+    background-image: url(https://img.clipartfest.com/959c64b43cf3bbe494bfae409b6019a1_free-dog-clip-art-image-cute-free-clipart-dog-bone_500-195.png);
+    background-size: 100% 100%;
+    width: 25%;
+    padding: 5%;
+    border: 0;
+    margin: auto;
+}
+
+.two {
+    background-image: url(http://puppyshopboys.com/wp-content/themes/puppyshopboys/images/puppies.png);
+    background-size: 100% 100%;
+    width: 40%;
+    padding: 10%;
+    border: 0;
+    margin: auto;
+}
+
+.three {
+    display: block;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
+figcaption {
+    font-size: larger;
+    font-family: Impact;
+}
+
+.four {
+    list-style-type: none;
+    display: flex;
+    width: 300px;
+    padding: 0;
+    margin-left: calc(50% - 120px);
+    overflow: hidden;
+    background-color: transparent;
+    position: static;
+}
+
+.five {
+    float: none;
+    width: 80px;
+}
+.six {
+    display: inline;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 15px 16px;
+    border-right: none;
+}
+.seven {
+    display: block;
+    width: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imgMod1 {
+    display: block;
+    width: 15%;
+    height: 8%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.listT3 {
+    list-style-type: none;
+    display: flex;
+    width: 100%;
+    padding: 0;
+    overflow: hidden;
+    background-color: transparent;
+    position: static;
+}
+/*
+li a:hover {
+    background-color: #111;
+}
+.active {
+    background-color: #4CAF50;
+}*/
