@@ -1,4 +1,4 @@
-.contentPage {width: calc(500px + 30%);
+.contentPage {width: calc(400px + 40%);
     margin:0 auto 0 auto;
     padding:5px;
     border:20px solid rosybrown;
@@ -120,7 +120,6 @@ li a {
 
 figcaption {
     font-size: larger;
-    font-family: Impact;
 }
 
 .four {
