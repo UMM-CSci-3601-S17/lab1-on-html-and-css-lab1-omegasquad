@@ -36,8 +36,16 @@ changes from feature branches into your master branch.
 
   # HTML 5 Features
   -
+  -
+  -
+  -
+  -
+  -
 
   # CSS3 Features
-
-
-
+  - used calc() function to scale webpage for multiple resolution sizes
+  -
+  -
+  -
+  -
+  -
