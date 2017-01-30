@@ -10,3 +10,4 @@ Backgrounds & Boarders: we used this feature because we thought it would be a go
                         with a dog bone. We also though placing puppies around the header of the website would really show
                         at first glance that the customer should expect to see a lot of puppies since that's what the business
                         is all about.
+Calc()                  used calc() function to scale webpage for multiple resolution sizes
